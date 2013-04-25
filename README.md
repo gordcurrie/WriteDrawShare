@@ -8,3 +8,6 @@ Thank you for taking the time to look at my little Android app.
 If you find this code of any value please consider download the app at 
 <a href="https://play.google.com/store/apps/details?id=com.currie.writedrawshare">
 https://play.google.com/store/apps/details?id=com.currie.writedrawshare</a>
+
+<h2>License</h2>
+This is free and unencumbered software released into the public domain.
