@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/clear"
+        android:title="clear"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/color_picker_pen"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="choose color"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="share"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="save"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/caputre"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="caputre photo"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/upload"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="upload"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    
+</menu>

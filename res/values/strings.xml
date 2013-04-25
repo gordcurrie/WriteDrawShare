@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Write, Draw, Share Demo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Write, Draw, Share</string>
+    <string name="choose_pen_color">Choose Pen Color</string>
+    <string name="clear">Clear</string>
+    <string name="share">share</string>
+    <string name="save">Save</string>
+    <string name="delete">delete</string>
+</resources>
